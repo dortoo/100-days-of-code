@@ -5,3 +5,10 @@
 **Today's Progress**: Did 1 hour in the evening, learned what a callback function is, reduce() method and did 2 codewars challenges, kyu 8 and 7(javascript)
 
 **Thoughts:** Feeling like starting to get the hang of Javascript, at least the basics. I know it's just the beginning though, the darkest and thoughest things are still to come i think.
+
+
+### Day 1: January 20, 2019
+
+**Today's Progress**: 1 hour in the evening again, worked on Exercise 3 of Chapter 4(Eloquent Javascript). Pretty hard exercise, but starting to get the grasp of how to start building the program.
+
+**Thoughts:** Pretty big jump in difficulty with this exercise. I like it because i can test new things and see which one works and which one doesn't.
